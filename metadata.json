@@ -1,0 +1,6 @@
+{
+  "name": "TennisPro - Premium Tennis Equipment",
+  "description": "Engineered for speed, control, and confidence. Premium tennis rackets, technical apparel, high-performance footwear, and tournament accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
